@@ -6,7 +6,7 @@ This project is a **real-time Twitter Analytics Dashboard** built using **Power 
 ## 🚀 Live Demo
 
 🌐 **Hosted Website:** [Click here to view the live version]()  
-📥 **Download PBIX File:** [TwitterAnalyticsDashboard.pbix](./TwitterAnalyticsInternship.pbix)
+📥 **Download PBIX File:** [TwitterAnalyticsDashboard.pbix](./Twitter_Analytics_Internship.pbix)
 
 ---
 
