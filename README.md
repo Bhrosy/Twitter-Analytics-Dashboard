@@ -55,7 +55,7 @@ As part of the internship, the following custom tasks were implemented:
 ## ✨ How to Use
 
 1. Clone or download this repository.
-2. Open `TwitterAnalyticsInternship.pbix` in **Power BI Desktop**.
+2. Open `Twitter_Analytics_Internship.pbix` in **Power BI Desktop**.
 3. Update the data source if needed.
 4. Customize visuals, themes, or add new pages as required.
 
