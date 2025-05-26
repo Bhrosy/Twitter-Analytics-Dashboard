@@ -5,7 +5,7 @@ This project is a **real-time Twitter Analytics Dashboard** built using **Power 
 
 ## 🚀 Live Demo
 
-🌐 **Hosted Website:** [Twitter-Analytic-Dasboard](twitteranalyticdashboard.netlify.app) 
+🌐 **Hosted Website:** [Twitter-Analytic-Dasboard](https://twitteranalyticdashboard.netlify.app) 
 📥 **Download PBIX File:** [TwitterAnalyticsDashboard.pbix](./Twitter_Analytics_Internship.pbix)
 
 ---
