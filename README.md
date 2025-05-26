@@ -17,7 +17,7 @@ This project is a **real-time Twitter Analytics Dashboard** built using **Power 
 - **Twitter API / Sample Data**
 - **Excel / CSV**
 - **Git & GitHub**
-- **Netlify** or **Vercel** (for live deployment of documentation site)
+- **Netlify** (for live deployment of documentation site)
 
 ---
 
